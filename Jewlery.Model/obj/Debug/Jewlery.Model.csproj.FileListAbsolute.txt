@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\JewleryWPF_Lab\Jewlery.Model\obj\Debug\Jewlery.Model.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JewleryWPF_Lab\Jewlery.Model\obj\Debug\Jewlery.Model.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\JewleryWPF_Lab\Jewlery.Model\obj\Debug\Jewlery.Model.csproj.CoreCompileInputs.cache

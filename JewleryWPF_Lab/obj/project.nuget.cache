@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbjTSq5h1dZZLHrKn0dJFeZVyJXzghLS+keKXi61BG0SvSYSZRzBlh1jmMCJynzD2tylcWl1gKNk827JWq9XwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\JewleryWPF_Lab\\JewleryWPF_Lab\\JewleryWPF_Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\automapper\\3.3.0\\automapper.3.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AutoMapper 3.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

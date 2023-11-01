@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\JewleryWPF_Lab\Jewlery.Model.Test\obj\Debug\net6.0\Jewlery.Model.Test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JewleryWPF_Lab\Jewlery.Model.Test\obj\Debug\net6.0\Jewlery.Model.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JewleryWPF_Lab\Jewlery.Model.Test\obj\Debug\net6.0\Jewlery.Model.Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JewleryWPF_Lab\Jewlery.Model.Test\obj\Debug\net6.0\Jewlery.Model.Test.AssemblyInfo.cs
+C:\Users\User\source\repos\JewleryWPF_Lab\Jewlery.Model.Test\obj\Debug\net6.0\Jewlery.Model.Test.csproj.CoreCompileInputs.cache

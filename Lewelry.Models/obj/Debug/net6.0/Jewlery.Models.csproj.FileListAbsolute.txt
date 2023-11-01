@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\JewleryWPF_Lab\Lewelry.Models\bin\Debug\net6.0\Jewlery.Models.deps.json
+C:\Users\User\source\repos\JewleryWPF_Lab\Lewelry.Models\bin\Debug\net6.0\Jewlery.Models.dll
+C:\Users\User\source\repos\JewleryWPF_Lab\Lewelry.Models\bin\Debug\net6.0\Jewlery.Models.pdb
+C:\Users\User\source\repos\JewleryWPF_Lab\Lewelry.Models\obj\Debug\net6.0\Jewlery.Models.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JewleryWPF_Lab\Lewelry.Models\obj\Debug\net6.0\Jewlery.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JewleryWPF_Lab\Lewelry.Models\obj\Debug\net6.0\Jewlery.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JewleryWPF_Lab\Lewelry.Models\obj\Debug\net6.0\Jewlery.Models.AssemblyInfo.cs
+C:\Users\User\source\repos\JewleryWPF_Lab\Lewelry.Models\obj\Debug\net6.0\Jewlery.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JewleryWPF_Lab\Lewelry.Models\obj\Debug\net6.0\Jewlery.Models.dll
+C:\Users\User\source\repos\JewleryWPF_Lab\Lewelry.Models\obj\Debug\net6.0\refint\Jewlery.Models.dll
+C:\Users\User\source\repos\JewleryWPF_Lab\Lewelry.Models\obj\Debug\net6.0\Jewlery.Models.pdb
+C:\Users\User\source\repos\JewleryWPF_Lab\Lewelry.Models\obj\Debug\net6.0\ref\Jewlery.Models.dll
